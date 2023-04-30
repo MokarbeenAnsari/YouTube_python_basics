@@ -1,4 +1,4 @@
-# Python Bootcamp 2023: Python Basics
+# Python Bootcamp 2023: Python Fundamentals
 List of Python Basics videos
 | Lecture No. | Topic | Video Link |
 |:-----------|:------|:-----------|
